@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Dimitar Petkov
-- 👀 I’m interested in Softaware Engineering.
-- 🌱 I’m currently learning Python , Django and JS.
+- 👀 I’m interested in Softaware Engineering with Python, Django, PostgreSQL, HTML and CSS.
+- 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on fun projects to further develop my skills.
 - 📫 How to reach me on LinkedIn profile <a href="www.linkedin.com/in/dimitar-petkov-95aa1b228" rel="nofollow">HERE</a>.  
 
