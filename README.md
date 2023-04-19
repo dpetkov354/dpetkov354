@@ -1,8 +1,8 @@
 - 👋 Hi, My name is Dimitar Petkov
-- 👀 I’m interested in Softaware Engineering with Python, Django, PostgreSQL, HTML and CSS.
-- 🌱 I’m currently learning JS.
-- 💞️ I’m looking to collaborate on fun projects to further develop my skills.
-- 📫 How to reach me on LinkedIn profile <a href="http://www.linkedin.com/in/dimitar-petkov-95aa1b228" rel="nofollow">HERE</a>.
+- 👀 I’m a junior Data Engineer.
+- 🌱 I’m currently learning Databricks, Azure.
+- 💞️ I’m looking to further develop my skills in Data ENgineering with the prospect of specializing in thge field of Machine learning and AI.
+- 📫 How to reach me on LinkedIn profile <a href="https://www.linkedin.com/in/meng-dimitar-petkov-95aa1b228/">HERE</a>.
 - Carsales app developed using Django/Python and PostgreSQL for viewing and registering car listings <a href="http://dimitartest354.pythonanywhere.com/" rel="nofollow">HERE</a>
 
 <!---
